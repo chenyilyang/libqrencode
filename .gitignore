@@ -17,6 +17,7 @@ Makefile
 Makefile.in
 README
 build
+bin
 config.log
 configure
 config.status
